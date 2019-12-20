@@ -1,0 +1,11 @@
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\bin\Debug\netcoreapp2.0\TestScores.deps.json
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\bin\Debug\netcoreapp2.0\TestScores.runtimeconfig.json
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\bin\Debug\netcoreapp2.0\TestScores.runtimeconfig.dev.json
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\bin\Debug\netcoreapp2.0\TestScores.dll
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\bin\Debug\netcoreapp2.0\TestScores.pdb
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\obj\Debug\netcoreapp2.0\TestScores.csprojAssemblyReference.cache
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\obj\Debug\netcoreapp2.0\TestScores.csproj.CoreCompileInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\obj\Debug\netcoreapp2.0\TestScores.AssemblyInfoInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\obj\Debug\netcoreapp2.0\TestScores.AssemblyInfo.cs
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\obj\Debug\netcoreapp2.0\TestScores.dll
+C:\Users\ts181296\source\repos\Chapter 6\TestScores\TestScores\obj\Debug\netcoreapp2.0\TestScores.pdb

@@ -1,0 +1,10 @@
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\bin\Debug\netcoreapp2.0\ArraySort.deps.json
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\bin\Debug\netcoreapp2.0\ArraySort.runtimeconfig.json
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\bin\Debug\netcoreapp2.0\ArraySort.runtimeconfig.dev.json
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\bin\Debug\netcoreapp2.0\ArraySort.dll
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\bin\Debug\netcoreapp2.0\ArraySort.pdb
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\obj\Debug\netcoreapp2.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\obj\Debug\netcoreapp2.0\ArraySort.AssemblyInfoInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\obj\Debug\netcoreapp2.0\ArraySort.AssemblyInfo.cs
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\obj\Debug\netcoreapp2.0\ArraySort.dll
+C:\Users\ts181296\source\repos\Chapter 6\ArraySort\ArraySort\obj\Debug\netcoreapp2.0\ArraySort.pdb

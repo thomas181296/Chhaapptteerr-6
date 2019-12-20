@@ -1,0 +1,11 @@
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\bin\Debug\netcoreapp2.0\TemperatureList.deps.json
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\bin\Debug\netcoreapp2.0\TemperatureList.runtimeconfig.json
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\bin\Debug\netcoreapp2.0\TemperatureList.runtimeconfig.dev.json
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\bin\Debug\netcoreapp2.0\TemperatureList.dll
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\bin\Debug\netcoreapp2.0\TemperatureList.pdb
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\obj\Debug\netcoreapp2.0\TemperatureList.csprojAssemblyReference.cache
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\obj\Debug\netcoreapp2.0\TemperatureList.csproj.CoreCompileInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\obj\Debug\netcoreapp2.0\TemperatureList.AssemblyInfoInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\obj\Debug\netcoreapp2.0\TemperatureList.AssemblyInfo.cs
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\obj\Debug\netcoreapp2.0\TemperatureList.dll
+C:\Users\ts181296\source\repos\Chapter 6\TemperatureList\TemperatureList\obj\Debug\netcoreapp2.0\TemperatureList.pdb

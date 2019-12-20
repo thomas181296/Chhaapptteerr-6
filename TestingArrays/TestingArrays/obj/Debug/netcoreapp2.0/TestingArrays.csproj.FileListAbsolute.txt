@@ -1,0 +1,11 @@
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\bin\Debug\netcoreapp2.0\TestingArrays.deps.json
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\bin\Debug\netcoreapp2.0\TestingArrays.runtimeconfig.json
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\bin\Debug\netcoreapp2.0\TestingArrays.runtimeconfig.dev.json
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\bin\Debug\netcoreapp2.0\TestingArrays.dll
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\bin\Debug\netcoreapp2.0\TestingArrays.pdb
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\obj\Debug\netcoreapp2.0\TestingArrays.csprojAssemblyReference.cache
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\obj\Debug\netcoreapp2.0\TestingArrays.csproj.CoreCompileInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\obj\Debug\netcoreapp2.0\TestingArrays.AssemblyInfoInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\obj\Debug\netcoreapp2.0\TestingArrays.AssemblyInfo.cs
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\obj\Debug\netcoreapp2.0\TestingArrays.dll
+C:\Users\ts181296\source\repos\Chapter 6\TestingArrays\TestingArrays\obj\Debug\netcoreapp2.0\TestingArrays.pdb

@@ -1,0 +1,10 @@
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\bin\Debug\netcoreapp2.0\FindPrice.deps.json
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\bin\Debug\netcoreapp2.0\FindPrice.runtimeconfig.json
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\bin\Debug\netcoreapp2.0\FindPrice.runtimeconfig.dev.json
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\bin\Debug\netcoreapp2.0\FindPrice.dll
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\bin\Debug\netcoreapp2.0\FindPrice.pdb
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\obj\Debug\netcoreapp2.0\FindPrice.csproj.CoreCompileInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\obj\Debug\netcoreapp2.0\FindPrice.AssemblyInfoInputs.cache
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\obj\Debug\netcoreapp2.0\FindPrice.AssemblyInfo.cs
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\obj\Debug\netcoreapp2.0\FindPrice.dll
+C:\Users\ts181296\source\repos\Chapter 6\FindPrice\FindPrice\obj\Debug\netcoreapp2.0\FindPrice.pdb
